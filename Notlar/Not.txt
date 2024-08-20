@@ -1,0 +1,1 @@
+App klasöründe Git çalışmasını yapmış olduğum dosyalar mevcut burada bidoluyazılım YouTube kanalında ki Git ve GitHub eğitim serisi videolarını kullanarak yapmış olduğum çalışmaları kaydettim. Git dersleri 13 videodan oluşuyor.

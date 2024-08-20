@@ -1,0 +1,4 @@
+GİT
+Git, yazılım geliştirme süreçlerinde kullanılan bir versiyon kontrol sistemidir. Git sayesinde yapacağınız projelerin adım adım versiyonlarının kopyalarını alarak daha sonra ihtiyaç duyduğunuzda aldığınız kopyalara yani versiyonlara kolayca dönebiliyorsunuz.
+
+Git kullanmaya neden ihtiyaç duyarız bunu kısa bir örnek ile açıklamak istiyorum. gitProje1.cs isimli bir projemiz olduğunu varsayalım bu projemizde bir değişiklik veya bir yenilik yapmak istiyoruz direkt olarak gitProje1.cs isimli projemizde değişiklik yapmak yerine gitProje1-Kopya.cs yani gitProje1.cs'nin kopyasında değişiklik yaptığımızı düşünün böyle yaptığımız zaman bir hata ile karşılaştığımızda ilk sürüm olan orijinal projenize gitProje1.cs'ye dönüş yapabiliriz. İşte Git tam olarak bunu kolayca yapabilmemizi sağlıyor. Böylece projemizi risklere karşı korumuş oluruz. Bu işlemleri tekrar tekrar uygulayarak proje geliştirme sürecimizi bu şekilde tamamlarız.

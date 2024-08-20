@@ -1,0 +1,4 @@
+deneme.txt
+
+dosya/*
+!dosya/test.txt
